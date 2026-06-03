@@ -4,8 +4,6 @@ test/
 train_mini/
 test_mini/
 
-# Ignore the trained model file (it's too big for GitHub)
-*.h5
 
 # Ignore python cache files
 __pycache__/
